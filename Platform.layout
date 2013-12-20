@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Platform.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="652" topLine="225" />
+	</File>
+	<File name="PlatformHeader.h" open="1" top="0" tabpos="3">
+		<Cursor position="1509" topLine="51" />
+	</File>
+	<File name="block.h" open="1" top="0" tabpos="9">
+		<Cursor position="335" topLine="0" />
+	</File>
+	<File name="bullet.h" open="1" top="0" tabpos="6">
+		<Cursor position="679" topLine="23" />
+	</File>
+	<File name="drawing.h" open="1" top="0" tabpos="10">
+		<Cursor position="1492" topLine="12" />
+	</File>
+	<File name="explosion.h" open="1" top="0" tabpos="11">
+		<Cursor position="184" topLine="8" />
+	</File>
+	<File name="myrect.h" open="1" top="0" tabpos="8">
+		<Cursor position="44" topLine="0" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="5">
+		<Cursor position="1743" topLine="74" />
+	</File>
+	<File name="sprite.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="112" />
+	</File>
+	<File name="weapons.h" open="1" top="0" tabpos="7">
+		<Cursor position="129" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
